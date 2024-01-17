@@ -1,0 +1,13 @@
+
+
+Les dejo una lista de 4 videos que animan la explicación de deep nueral netwoks, gradient descente, y backprop.
+https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+
+
+
+Les dejo algunas referencias interesantes para deep reinforcement learning.
+https://arxiv.org/abs/1811.12560
+http://incompleteideas.net/book/RLbook2020.pdf
+https://deepreinforcementlearningbook.org/
+https://arxiv.org/abs/2201.02135
+https://youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv

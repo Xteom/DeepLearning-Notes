@@ -1,0 +1,1 @@
+my_path = "C:\\Users\\mateo.TABLET-PQBTM7BC\\OneDrive - INSTITUTO TECNOLOGICO AUTONOMO DE MEXICO\\Deep\\data"
